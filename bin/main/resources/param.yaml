@@ -1,0 +1,7 @@
+converter:
+  applicationUrl:
+    latam_dev: http://www.latam.com
+    apac_dev: http://www.latam.com
+    us_dev: http://www.us.com
+    wem_dev: http://www.latam.com
+    
